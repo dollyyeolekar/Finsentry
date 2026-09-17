@@ -1,0 +1,227 @@
+[
+  {
+    "zone_id": "Z1",
+    "row": 0,
+    "col": 0,
+    "label": "North / West",
+    "lat": 18.42,
+    "lng": 73.75,
+    "atm_density": 13
+  },
+  {
+    "zone_id": "Z2",
+    "row": 0,
+    "col": 1,
+    "label": "North / West-Center",
+    "lat": 18.42,
+    "lng": 73.8,
+    "atm_density": 4
+  },
+  {
+    "zone_id": "Z3",
+    "row": 0,
+    "col": 2,
+    "label": "North / Center",
+    "lat": 18.42,
+    "lng": 73.85,
+    "atm_density": 3
+  },
+  {
+    "zone_id": "Z4",
+    "row": 0,
+    "col": 3,
+    "label": "North / East-Center",
+    "lat": 18.42,
+    "lng": 73.9,
+    "atm_density": 14
+  },
+  {
+    "zone_id": "Z5",
+    "row": 0,
+    "col": 4,
+    "label": "North / East",
+    "lat": 18.42,
+    "lng": 73.95,
+    "atm_density": 7
+  },
+  {
+    "zone_id": "Z6",
+    "row": 1,
+    "col": 0,
+    "label": "North-Center / West",
+    "lat": 18.47,
+    "lng": 73.75,
+    "atm_density": 6
+  },
+  {
+    "zone_id": "Z7",
+    "row": 1,
+    "col": 1,
+    "label": "North-Center / West-Center",
+    "lat": 18.47,
+    "lng": 73.8,
+    "atm_density": 6
+  },
+  {
+    "zone_id": "Z8",
+    "row": 1,
+    "col": 2,
+    "label": "North-Center / Center",
+    "lat": 18.47,
+    "lng": 73.85,
+    "atm_density": 5
+  },
+  {
+    "zone_id": "Z9",
+    "row": 1,
+    "col": 3,
+    "label": "North-Center / East-Center",
+    "lat": 18.47,
+    "lng": 73.9,
+    "atm_density": 14
+  },
+  {
+    "zone_id": "Z10",
+    "row": 1,
+    "col": 4,
+    "label": "North-Center / East",
+    "lat": 18.47,
+    "lng": 73.95,
+    "atm_density": 4
+  },
+  {
+    "zone_id": "Z11",
+    "row": 2,
+    "col": 0,
+    "label": "Center / West",
+    "lat": 18.52,
+    "lng": 73.75,
+    "atm_density": 13
+  },
+  {
+    "zone_id": "Z12",
+    "row": 2,
+    "col": 1,
+    "label": "Center / West-Center",
+    "lat": 18.52,
+    "lng": 73.8,
+    "atm_density": 14
+  },
+  {
+    "zone_id": "Z13",
+    "row": 2,
+    "col": 2,
+    "label": "Center / Center",
+    "lat": 18.52,
+    "lng": 73.85,
+    "atm_density": 11
+  },
+  {
+    "zone_id": "Z14",
+    "row": 2,
+    "col": 3,
+    "label": "Center / East-Center",
+    "lat": 18.52,
+    "lng": 73.9,
+    "atm_density": 4
+  },
+  {
+    "zone_id": "Z15",
+    "row": 2,
+    "col": 4,
+    "label": "Center / East",
+    "lat": 18.52,
+    "lng": 73.95,
+    "atm_density": 12
+  },
+  {
+    "zone_id": "Z16",
+    "row": 3,
+    "col": 0,
+    "label": "South-Center / West",
+    "lat": 18.57,
+    "lng": 73.75,
+    "atm_density": 9
+  },
+  {
+    "zone_id": "Z17",
+    "row": 3,
+    "col": 1,
+    "label": "South-Center / West-Center",
+    "lat": 18.57,
+    "lng": 73.8,
+    "atm_density": 3
+  },
+  {
+    "zone_id": "Z18",
+    "row": 3,
+    "col": 2,
+    "label": "South-Center / Center",
+    "lat": 18.57,
+    "lng": 73.85,
+    "atm_density": 3
+  },
+  {
+    "zone_id": "Z19",
+    "row": 3,
+    "col": 3,
+    "label": "South-Center / East-Center",
+    "lat": 18.57,
+    "lng": 73.9,
+    "atm_density": 4
+  },
+  {
+    "zone_id": "Z20",
+    "row": 3,
+    "col": 4,
+    "label": "South-Center / East",
+    "lat": 18.57,
+    "lng": 73.95,
+    "atm_density": 6
+  },
+  {
+    "zone_id": "Z21",
+    "row": 4,
+    "col": 0,
+    "label": "South / West",
+    "lat": 18.62,
+    "lng": 73.75,
+    "atm_density": 6
+  },
+  {
+    "zone_id": "Z22",
+    "row": 4,
+    "col": 1,
+    "label": "South / West-Center",
+    "lat": 18.62,
+    "lng": 73.8,
+    "atm_density": 11
+  },
+  {
+    "zone_id": "Z23",
+    "row": 4,
+    "col": 2,
+    "label": "South / Center",
+    "lat": 18.62,
+    "lng": 73.85,
+    "atm_density": 12
+  },
+  {
+    "zone_id": "Z24",
+    "row": 4,
+    "col": 3,
+    "label": "South / East-Center",
+    "lat": 18.62,
+    "lng": 73.9,
+    "atm_density": 3
+  },
+  {
+    "zone_id": "Z25",
+    "row": 4,
+    "col": 4,
+    "label": "South / East",
+    "lat": 18.62,
+    "lng": 73.95,
+    "atm_density": 11
+  }
+]

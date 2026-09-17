@@ -1,0 +1,75 @@
+[
+  {
+    "network_id": "NET1",
+    "favorite_zones": [
+      "Z23",
+      "Z21"
+    ],
+    "favorite_hour_range": [
+      14,
+      20
+    ],
+    "typical_hop_count": 3
+  },
+  {
+    "network_id": "NET2",
+    "favorite_zones": [
+      "Z15",
+      "Z19"
+    ],
+    "favorite_hour_range": [
+      11,
+      22
+    ],
+    "typical_hop_count": 2
+  },
+  {
+    "network_id": "NET3",
+    "favorite_zones": [
+      "Z23",
+      "Z14"
+    ],
+    "favorite_hour_range": [
+      11,
+      18
+    ],
+    "typical_hop_count": 2
+  },
+  {
+    "network_id": "NET4",
+    "favorite_zones": [
+      "Z25",
+      "Z11"
+    ],
+    "favorite_hour_range": [
+      9,
+      16
+    ],
+    "typical_hop_count": 3
+  },
+  {
+    "network_id": "NET5",
+    "favorite_zones": [
+      "Z12",
+      "Z20"
+    ],
+    "favorite_hour_range": [
+      11,
+      22
+    ],
+    "typical_hop_count": 2
+  },
+  {
+    "network_id": "NET6",
+    "favorite_zones": [
+      "Z18",
+      "Z4",
+      "Z13"
+    ],
+    "favorite_hour_range": [
+      9,
+      20
+    ],
+    "typical_hop_count": 3
+  }
+]

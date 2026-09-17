@@ -1,0 +1,2274 @@
+[
+  {
+    "complaint_id": "CMP0001",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC02202126",
+        "to_account": "ACC13676065",
+        "bank": "ICICI",
+        "ifsc": "ICIC0242962",
+        "amount_transferred": 53919,
+        "timestamp": "2026-08-22T04:13:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC13676065",
+        "to_account": "ACC88409572",
+        "bank": "HDFC",
+        "ifsc": "HDFC0486117",
+        "amount_transferred": 55851,
+        "timestamp": "2026-08-22T06:44:00"
+      },
+      {
+        "hop_number": 3,
+        "from_account": "ACC88409572",
+        "to_account": "ACC83295001",
+        "bank": "Axis",
+        "ifsc": "AXIS0674039",
+        "amount_transferred": 55762,
+        "timestamp": "2026-08-22T07:56:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0002",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC21077975",
+        "to_account": "ACC82661757",
+        "bank": "SBI",
+        "ifsc": "SBI0503098",
+        "amount_transferred": 40939,
+        "timestamp": "2026-08-05T06:45:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC82661757",
+        "to_account": "ACC08904077",
+        "bank": "HDFC",
+        "ifsc": "HDFC0145284",
+        "amount_transferred": 37034,
+        "timestamp": "2026-08-05T08:34:00"
+      },
+      {
+        "hop_number": 3,
+        "from_account": "ACC08904077",
+        "to_account": "ACC72396451",
+        "bank": "BOB",
+        "ifsc": "BOB0235220",
+        "amount_transferred": 39676,
+        "timestamp": "2026-08-05T07:53:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0003",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC57852440",
+        "to_account": "ACC44476904",
+        "bank": "Kotak",
+        "ifsc": "KOTA0382144",
+        "amount_transferred": 22295,
+        "timestamp": "2026-08-11T11:13:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC44476904",
+        "to_account": "ACC94850989",
+        "bank": "BOB",
+        "ifsc": "BOB0981424",
+        "amount_transferred": 21470,
+        "timestamp": "2026-08-11T12:28:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0004",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC64120703",
+        "to_account": "ACC55819015",
+        "bank": "SBI",
+        "ifsc": "SBI0621825",
+        "amount_transferred": 84862,
+        "timestamp": "2026-08-09T23:21:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC55819015",
+        "to_account": "ACC55927236",
+        "bank": "Kotak",
+        "ifsc": "KOTA0237049",
+        "amount_transferred": 89947,
+        "timestamp": "2026-08-09T22:56:00"
+      },
+      {
+        "hop_number": 3,
+        "from_account": "ACC55927236",
+        "to_account": "ACC22988318",
+        "bank": "PNB",
+        "ifsc": "PNB0769608",
+        "amount_transferred": 80542,
+        "timestamp": "2026-08-09T23:27:00"
+      },
+      {
+        "hop_number": 4,
+        "from_account": "ACC22988318",
+        "to_account": "ACC28712236",
+        "bank": "HDFC",
+        "ifsc": "HDFC0852906",
+        "amount_transferred": 87696,
+        "timestamp": "2026-08-09T23:18:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0005",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC40089585",
+        "to_account": "ACC40399036",
+        "bank": "HDFC",
+        "ifsc": "HDFC0635897",
+        "amount_transferred": 14833,
+        "timestamp": "2026-08-06T04:56:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC40399036",
+        "to_account": "ACC17141974",
+        "bank": "BOB",
+        "ifsc": "BOB0672173",
+        "amount_transferred": 12837,
+        "timestamp": "2026-08-06T06:36:00"
+      },
+      {
+        "hop_number": 3,
+        "from_account": "ACC17141974",
+        "to_account": "ACC19388263",
+        "bank": "HDFC",
+        "ifsc": "HDFC0207356",
+        "amount_transferred": 14648,
+        "timestamp": "2026-08-06T06:52:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0006",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC37491810",
+        "to_account": "ACC09577630",
+        "bank": "Axis",
+        "ifsc": "AXIS0633873",
+        "amount_transferred": 37648,
+        "timestamp": "2026-08-09T14:39:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC09577630",
+        "to_account": "ACC42149696",
+        "bank": "ICICI",
+        "ifsc": "ICIC0350245",
+        "amount_transferred": 39825,
+        "timestamp": "2026-08-09T15:55:00"
+      },
+      {
+        "hop_number": 3,
+        "from_account": "ACC42149696",
+        "to_account": "ACC42497105",
+        "bank": "Axis",
+        "ifsc": "AXIS0638762",
+        "amount_transferred": 36955,
+        "timestamp": "2026-08-09T14:16:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0007",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC57331688",
+        "to_account": "ACC72864591",
+        "bank": "SBI",
+        "ifsc": "SBI0145537",
+        "amount_transferred": 7331,
+        "timestamp": "2026-08-17T05:08:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC72864591",
+        "to_account": "ACC85874226",
+        "bank": "Axis",
+        "ifsc": "AXIS0756202",
+        "amount_transferred": 7126,
+        "timestamp": "2026-08-17T05:34:00"
+      },
+      {
+        "hop_number": 3,
+        "from_account": "ACC85874226",
+        "to_account": "ACC01312434",
+        "bank": "PNB",
+        "ifsc": "PNB0083790",
+        "amount_transferred": 7857,
+        "timestamp": "2026-08-17T08:03:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0008",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC56224036",
+        "to_account": "ACC78995956",
+        "bank": "Axis",
+        "ifsc": "AXIS0048123",
+        "amount_transferred": 82638,
+        "timestamp": "2026-08-01T20:12:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC78995956",
+        "to_account": "ACC82948470",
+        "bank": "BOB",
+        "ifsc": "BOB0920900",
+        "amount_transferred": 79838,
+        "timestamp": "2026-08-01T19:43:00"
+      },
+      {
+        "hop_number": 3,
+        "from_account": "ACC82948470",
+        "to_account": "ACC11652671",
+        "bank": "PNB",
+        "ifsc": "PNB0671891",
+        "amount_transferred": 76847,
+        "timestamp": "2026-08-01T21:46:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0009",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC26368750",
+        "to_account": "ACC43538819",
+        "bank": "PNB",
+        "ifsc": "PNB0687479",
+        "amount_transferred": 22263,
+        "timestamp": "2026-08-13T22:03:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC43538819",
+        "to_account": "ACC44728808",
+        "bank": "BOB",
+        "ifsc": "BOB0246308",
+        "amount_transferred": 21932,
+        "timestamp": "2026-08-13T21:59:00"
+      },
+      {
+        "hop_number": 3,
+        "from_account": "ACC44728808",
+        "to_account": "ACC73872090",
+        "bank": "ICICI",
+        "ifsc": "ICIC0747664",
+        "amount_transferred": 24223,
+        "timestamp": "2026-08-13T21:48:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0010",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC53953432",
+        "to_account": "ACC11571247",
+        "bank": "Kotak",
+        "ifsc": "KOTA0952112",
+        "amount_transferred": 36830,
+        "timestamp": "2026-08-14T06:26:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC11571247",
+        "to_account": "ACC52956184",
+        "bank": "Kotak",
+        "ifsc": "KOTA0854410",
+        "amount_transferred": 41629,
+        "timestamp": "2026-08-14T08:37:00"
+      },
+      {
+        "hop_number": 3,
+        "from_account": "ACC52956184",
+        "to_account": "ACC84060153",
+        "bank": "SBI",
+        "ifsc": "SBI0917672",
+        "amount_transferred": 38992,
+        "timestamp": "2026-08-14T09:36:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0011",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC92261100",
+        "to_account": "ACC64022802",
+        "bank": "Axis",
+        "ifsc": "AXIS0275811",
+        "amount_transferred": 4419,
+        "timestamp": "2026-08-19T21:48:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC64022802",
+        "to_account": "ACC80137521",
+        "bank": "ICICI",
+        "ifsc": "ICIC0669540",
+        "amount_transferred": 4280,
+        "timestamp": "2026-08-19T23:29:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0012",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC57154294",
+        "to_account": "ACC40336836",
+        "bank": "BOB",
+        "ifsc": "BOB0298543",
+        "amount_transferred": 4492,
+        "timestamp": "2026-08-01T11:15:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC40336836",
+        "to_account": "ACC59654137",
+        "bank": "BOB",
+        "ifsc": "BOB0672594",
+        "amount_transferred": 4774,
+        "timestamp": "2026-08-01T11:04:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0013",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC99418475",
+        "to_account": "ACC44441157",
+        "bank": "ICICI",
+        "ifsc": "ICIC0107837",
+        "amount_transferred": 4450,
+        "timestamp": "2026-08-06T17:45:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC44441157",
+        "to_account": "ACC78568443",
+        "bank": "ICICI",
+        "ifsc": "ICIC0739892",
+        "amount_transferred": 4537,
+        "timestamp": "2026-08-06T19:39:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0014",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC94055884",
+        "to_account": "ACC90189072",
+        "bank": "PNB",
+        "ifsc": "PNB0630365",
+        "amount_transferred": 89381,
+        "timestamp": "2026-08-17T08:28:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC90189072",
+        "to_account": "ACC84562622",
+        "bank": "Kotak",
+        "ifsc": "KOTA0097711",
+        "amount_transferred": 80543,
+        "timestamp": "2026-08-17T07:24:00"
+      },
+      {
+        "hop_number": 3,
+        "from_account": "ACC84562622",
+        "to_account": "ACC30342461",
+        "bank": "SBI",
+        "ifsc": "SBI0163645",
+        "amount_transferred": 79635,
+        "timestamp": "2026-08-17T09:04:00"
+      },
+      {
+        "hop_number": 4,
+        "from_account": "ACC30342461",
+        "to_account": "ACC20896143",
+        "bank": "Axis",
+        "ifsc": "AXIS0564281",
+        "amount_transferred": 81693,
+        "timestamp": "2026-08-17T11:42:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0015",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC30879978",
+        "to_account": "ACC72821277",
+        "bank": "ICICI",
+        "ifsc": "ICIC0610607",
+        "amount_transferred": 35910,
+        "timestamp": "2026-08-19T20:32:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC72821277",
+        "to_account": "ACC19342783",
+        "bank": "Kotak",
+        "ifsc": "KOTA0521999",
+        "amount_transferred": 37559,
+        "timestamp": "2026-08-19T21:22:00"
+      },
+      {
+        "hop_number": 3,
+        "from_account": "ACC19342783",
+        "to_account": "ACC19198799",
+        "bank": "BOB",
+        "ifsc": "BOB0837054",
+        "amount_transferred": 39939,
+        "timestamp": "2026-08-19T21:45:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0016",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC36664761",
+        "to_account": "ACC93408146",
+        "bank": "SBI",
+        "ifsc": "SBI0794714",
+        "amount_transferred": 21621,
+        "timestamp": "2026-08-21T20:18:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC93408146",
+        "to_account": "ACC49034980",
+        "bank": "PNB",
+        "ifsc": "PNB0659331",
+        "amount_transferred": 21708,
+        "timestamp": "2026-08-21T21:22:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0017",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC97285582",
+        "to_account": "ACC19081121",
+        "bank": "BOB",
+        "ifsc": "BOB0600723",
+        "amount_transferred": 4381,
+        "timestamp": "2026-08-08T04:56:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC19081121",
+        "to_account": "ACC75747515",
+        "bank": "HDFC",
+        "ifsc": "HDFC0907854",
+        "amount_transferred": 4973,
+        "timestamp": "2026-08-08T05:14:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0018",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC83116573",
+        "to_account": "ACC54607867",
+        "bank": "PNB",
+        "ifsc": "PNB0724234",
+        "amount_transferred": 136860,
+        "timestamp": "2026-08-15T05:28:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC54607867",
+        "to_account": "ACC46319080",
+        "bank": "ICICI",
+        "ifsc": "ICIC0078555",
+        "amount_transferred": 134917,
+        "timestamp": "2026-08-15T05:56:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0019",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC52621837",
+        "to_account": "ACC24576656",
+        "bank": "PNB",
+        "ifsc": "PNB0660279",
+        "amount_transferred": 37911,
+        "timestamp": "2026-08-15T07:36:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC24576656",
+        "to_account": "ACC16079053",
+        "bank": "BOB",
+        "ifsc": "BOB0413395",
+        "amount_transferred": 41265,
+        "timestamp": "2026-08-15T08:01:00"
+      },
+      {
+        "hop_number": 3,
+        "from_account": "ACC16079053",
+        "to_account": "ACC70044642",
+        "bank": "HDFC",
+        "ifsc": "HDFC0531655",
+        "amount_transferred": 37643,
+        "timestamp": "2026-08-15T08:57:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0020",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC21441525",
+        "to_account": "ACC80800985",
+        "bank": "Kotak",
+        "ifsc": "KOTA0574103",
+        "amount_transferred": 40748,
+        "timestamp": "2026-08-02T09:42:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC80800985",
+        "to_account": "ACC89082553",
+        "bank": "Axis",
+        "ifsc": "AXIS0333151",
+        "amount_transferred": 38913,
+        "timestamp": "2026-08-02T10:01:00"
+      },
+      {
+        "hop_number": 3,
+        "from_account": "ACC89082553",
+        "to_account": "ACC78821167",
+        "bank": "ICICI",
+        "ifsc": "ICIC0617477",
+        "amount_transferred": 38528,
+        "timestamp": "2026-08-02T12:19:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0021",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC67530403",
+        "to_account": "ACC08865457",
+        "bank": "ICICI",
+        "ifsc": "ICIC0848634",
+        "amount_transferred": 13089,
+        "timestamp": "2026-08-12T04:37:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC08865457",
+        "to_account": "ACC18375124",
+        "bank": "Axis",
+        "ifsc": "AXIS0451324",
+        "amount_transferred": 13511,
+        "timestamp": "2026-08-12T07:12:00"
+      },
+      {
+        "hop_number": 3,
+        "from_account": "ACC18375124",
+        "to_account": "ACC76006276",
+        "bank": "SBI",
+        "ifsc": "SBI0983513",
+        "amount_transferred": 14927,
+        "timestamp": "2026-08-12T07:20:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0022",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC99065039",
+        "to_account": "ACC94210817",
+        "bank": "ICICI",
+        "ifsc": "ICIC0880371",
+        "amount_transferred": 54390,
+        "timestamp": "2026-08-11T01:54:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC94210817",
+        "to_account": "ACC87814462",
+        "bank": "HDFC",
+        "ifsc": "HDFC0427453",
+        "amount_transferred": 58278,
+        "timestamp": "2026-08-11T03:44:00"
+      },
+      {
+        "hop_number": 3,
+        "from_account": "ACC87814462",
+        "to_account": "ACC16547754",
+        "bank": "BOB",
+        "ifsc": "BOB0116804",
+        "amount_transferred": 54341,
+        "timestamp": "2026-08-11T02:33:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0023",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC14924300",
+        "to_account": "ACC33023073",
+        "bank": "PNB",
+        "ifsc": "PNB0109487",
+        "amount_transferred": 13805,
+        "timestamp": "2026-08-04T18:33:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC33023073",
+        "to_account": "ACC90219647",
+        "bank": "SBI",
+        "ifsc": "SBI0212660",
+        "amount_transferred": 14633,
+        "timestamp": "2026-08-04T19:31:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0024",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC35165395",
+        "to_account": "ACC95346920",
+        "bank": "BOB",
+        "ifsc": "BOB0737677",
+        "amount_transferred": 13498,
+        "timestamp": "2026-08-18T02:30:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC95346920",
+        "to_account": "ACC58174668",
+        "bank": "ICICI",
+        "ifsc": "ICIC0074201",
+        "amount_transferred": 12844,
+        "timestamp": "2026-08-18T03:53:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0025",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC83138783",
+        "to_account": "ACC44958706",
+        "bank": "HDFC",
+        "ifsc": "HDFC0853063",
+        "amount_transferred": 23510,
+        "timestamp": "2026-08-16T17:06:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC44958706",
+        "to_account": "ACC63083929",
+        "bank": "HDFC",
+        "ifsc": "HDFC0906386",
+        "amount_transferred": 24823,
+        "timestamp": "2026-08-16T16:58:00"
+      },
+      {
+        "hop_number": 3,
+        "from_account": "ACC63083929",
+        "to_account": "ACC67007335",
+        "bank": "BOB",
+        "ifsc": "BOB0669375",
+        "amount_transferred": 23235,
+        "timestamp": "2026-08-16T19:02:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0026",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC35224929",
+        "to_account": "ACC21017989",
+        "bank": "Axis",
+        "ifsc": "AXIS0967522",
+        "amount_transferred": 4368,
+        "timestamp": "2026-08-09T15:39:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC21017989",
+        "to_account": "ACC32972435",
+        "bank": "BOB",
+        "ifsc": "BOB0491803",
+        "amount_transferred": 4788,
+        "timestamp": "2026-08-09T17:29:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0027",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC63876194",
+        "to_account": "ACC01113739",
+        "bank": "BOB",
+        "ifsc": "BOB0882651",
+        "amount_transferred": 53725,
+        "timestamp": "2026-08-19T11:26:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC01113739",
+        "to_account": "ACC51916768",
+        "bank": "SBI",
+        "ifsc": "SBI0580065",
+        "amount_transferred": 56860,
+        "timestamp": "2026-08-19T12:54:00"
+      },
+      {
+        "hop_number": 3,
+        "from_account": "ACC51916768",
+        "to_account": "ACC60856328",
+        "bank": "Axis",
+        "ifsc": "AXIS0446144",
+        "amount_transferred": 54062,
+        "timestamp": "2026-08-19T11:32:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0028",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC21410984",
+        "to_account": "ACC98971194",
+        "bank": "BOB",
+        "ifsc": "BOB0840342",
+        "amount_transferred": 56250,
+        "timestamp": "2026-08-12T20:24:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC98971194",
+        "to_account": "ACC25862011",
+        "bank": "SBI",
+        "ifsc": "SBI0234005",
+        "amount_transferred": 54263,
+        "timestamp": "2026-08-12T21:40:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0029",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC10395316",
+        "to_account": "ACC50134465",
+        "bank": "Axis",
+        "ifsc": "AXIS0361972",
+        "amount_transferred": 37819,
+        "timestamp": "2026-08-18T00:03:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC50134465",
+        "to_account": "ACC45403143",
+        "bank": "PNB",
+        "ifsc": "PNB0886526",
+        "amount_transferred": 41824,
+        "timestamp": "2026-08-18T01:36:00"
+      },
+      {
+        "hop_number": 3,
+        "from_account": "ACC45403143",
+        "to_account": "ACC20457738",
+        "bank": "PNB",
+        "ifsc": "PNB0257144",
+        "amount_transferred": 38302,
+        "timestamp": "2026-08-18T00:36:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0030",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC59439455",
+        "to_account": "ACC77666125",
+        "bank": "Kotak",
+        "ifsc": "KOTA0292227",
+        "amount_transferred": 4488,
+        "timestamp": "2026-08-21T00:49:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC77666125",
+        "to_account": "ACC97216398",
+        "bank": "PNB",
+        "ifsc": "PNB0982273",
+        "amount_transferred": 4582,
+        "timestamp": "2026-08-21T01:19:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0031",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC52656047",
+        "to_account": "ACC61991684",
+        "bank": "SBI",
+        "ifsc": "SBI0672207",
+        "amount_transferred": 39809,
+        "timestamp": "2026-08-08T01:56:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC61991684",
+        "to_account": "ACC78094890",
+        "bank": "PNB",
+        "ifsc": "PNB0871782",
+        "amount_transferred": 35936,
+        "timestamp": "2026-08-08T02:53:00"
+      },
+      {
+        "hop_number": 3,
+        "from_account": "ACC78094890",
+        "to_account": "ACC69346581",
+        "bank": "PNB",
+        "ifsc": "PNB0528376",
+        "amount_transferred": 40227,
+        "timestamp": "2026-08-08T01:50:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0032",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC88506113",
+        "to_account": "ACC03423552",
+        "bank": "HDFC",
+        "ifsc": "HDFC0326416",
+        "amount_transferred": 24712,
+        "timestamp": "2026-08-11T03:32:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC03423552",
+        "to_account": "ACC19262117",
+        "bank": "Kotak",
+        "ifsc": "KOTA0645456",
+        "amount_transferred": 22069,
+        "timestamp": "2026-08-11T04:05:00"
+      },
+      {
+        "hop_number": 3,
+        "from_account": "ACC19262117",
+        "to_account": "ACC78047050",
+        "bank": "Kotak",
+        "ifsc": "KOTA0555135",
+        "amount_transferred": 21686,
+        "timestamp": "2026-08-11T04:31:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0033",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC45563020",
+        "to_account": "ACC50309909",
+        "bank": "HDFC",
+        "ifsc": "HDFC0047796",
+        "amount_transferred": 136958,
+        "timestamp": "2026-08-16T11:55:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC50309909",
+        "to_account": "ACC89366563",
+        "bank": "Axis",
+        "ifsc": "AXIS0155720",
+        "amount_transferred": 128012,
+        "timestamp": "2026-08-16T12:33:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0034",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC11870669",
+        "to_account": "ACC20546820",
+        "bank": "SBI",
+        "ifsc": "SBI0457719",
+        "amount_transferred": 79661,
+        "timestamp": "2026-08-18T22:57:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC20546820",
+        "to_account": "ACC57828954",
+        "bank": "ICICI",
+        "ifsc": "ICIC0255716",
+        "amount_transferred": 84004,
+        "timestamp": "2026-08-18T22:06:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0035",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC15228140",
+        "to_account": "ACC95122698",
+        "bank": "Axis",
+        "ifsc": "AXIS0071266",
+        "amount_transferred": 88294,
+        "timestamp": "2026-08-17T19:18:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC95122698",
+        "to_account": "ACC77548390",
+        "bank": "BOB",
+        "ifsc": "BOB0991942",
+        "amount_transferred": 84659,
+        "timestamp": "2026-08-17T19:56:00"
+      },
+      {
+        "hop_number": 3,
+        "from_account": "ACC77548390",
+        "to_account": "ACC95735325",
+        "bank": "Axis",
+        "ifsc": "AXIS0409489",
+        "amount_transferred": 81505,
+        "timestamp": "2026-08-17T21:50:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0036",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC25259374",
+        "to_account": "ACC64171749",
+        "bank": "Kotak",
+        "ifsc": "KOTA0560089",
+        "amount_transferred": 85521,
+        "timestamp": "2026-08-05T08:26:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC64171749",
+        "to_account": "ACC16012406",
+        "bank": "Axis",
+        "ifsc": "AXIS0996054",
+        "amount_transferred": 76726,
+        "timestamp": "2026-08-05T09:46:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0037",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC52623709",
+        "to_account": "ACC59268687",
+        "bank": "Axis",
+        "ifsc": "AXIS0035001",
+        "amount_transferred": 83248,
+        "timestamp": "2026-08-18T07:48:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC59268687",
+        "to_account": "ACC75805028",
+        "bank": "Kotak",
+        "ifsc": "KOTA0840098",
+        "amount_transferred": 84107,
+        "timestamp": "2026-08-18T07:11:00"
+      },
+      {
+        "hop_number": 3,
+        "from_account": "ACC75805028",
+        "to_account": "ACC93957730",
+        "bank": "HDFC",
+        "ifsc": "HDFC0128383",
+        "amount_transferred": 86701,
+        "timestamp": "2026-08-18T08:04:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0038",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC66593674",
+        "to_account": "ACC39466067",
+        "bank": "HDFC",
+        "ifsc": "HDFC0701767",
+        "amount_transferred": 80775,
+        "timestamp": "2026-08-12T09:29:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC39466067",
+        "to_account": "ACC03321145",
+        "bank": "SBI",
+        "ifsc": "SBI0403053",
+        "amount_transferred": 81701,
+        "timestamp": "2026-08-12T10:40:00"
+      },
+      {
+        "hop_number": 3,
+        "from_account": "ACC03321145",
+        "to_account": "ACC30999513",
+        "bank": "Axis",
+        "ifsc": "AXIS0134044",
+        "amount_transferred": 83037,
+        "timestamp": "2026-08-12T10:03:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0039",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC03838448",
+        "to_account": "ACC91392399",
+        "bank": "Kotak",
+        "ifsc": "KOTA0264523",
+        "amount_transferred": 24312,
+        "timestamp": "2026-08-22T00:38:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC91392399",
+        "to_account": "ACC15556594",
+        "bank": "ICICI",
+        "ifsc": "ICIC0742687",
+        "amount_transferred": 22784,
+        "timestamp": "2026-08-22T02:04:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0040",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC09445965",
+        "to_account": "ACC97859126",
+        "bank": "BOB",
+        "ifsc": "BOB0165669",
+        "amount_transferred": 13496,
+        "timestamp": "2026-08-08T17:47:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC97859126",
+        "to_account": "ACC02555543",
+        "bank": "SBI",
+        "ifsc": "SBI0755301",
+        "amount_transferred": 13686,
+        "timestamp": "2026-08-08T17:22:00"
+      },
+      {
+        "hop_number": 3,
+        "from_account": "ACC02555543",
+        "to_account": "ACC87337530",
+        "bank": "SBI",
+        "ifsc": "SBI0740070",
+        "amount_transferred": 13522,
+        "timestamp": "2026-08-08T17:51:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0041",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC24164061",
+        "to_account": "ACC40227757",
+        "bank": "PNB",
+        "ifsc": "PNB0531164",
+        "amount_transferred": 14923,
+        "timestamp": "2026-08-17T14:25:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC40227757",
+        "to_account": "ACC33134168",
+        "bank": "PNB",
+        "ifsc": "PNB0956321",
+        "amount_transferred": 13590,
+        "timestamp": "2026-08-17T14:31:00"
+      },
+      {
+        "hop_number": 3,
+        "from_account": "ACC33134168",
+        "to_account": "ACC35544599",
+        "bank": "PNB",
+        "ifsc": "PNB0112186",
+        "amount_transferred": 14697,
+        "timestamp": "2026-08-17T14:08:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0042",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC74157202",
+        "to_account": "ACC14775117",
+        "bank": "ICICI",
+        "ifsc": "ICIC0838075",
+        "amount_transferred": 149770,
+        "timestamp": "2026-08-07T20:58:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC14775117",
+        "to_account": "ACC87294384",
+        "bank": "Kotak",
+        "ifsc": "KOTA0972853",
+        "amount_transferred": 143492,
+        "timestamp": "2026-08-07T23:35:00"
+      },
+      {
+        "hop_number": 3,
+        "from_account": "ACC87294384",
+        "to_account": "ACC11220325",
+        "bank": "Axis",
+        "ifsc": "AXIS0372289",
+        "amount_transferred": 142784,
+        "timestamp": "2026-08-07T21:41:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0043",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC13283166",
+        "to_account": "ACC46805293",
+        "bank": "Axis",
+        "ifsc": "AXIS0930777",
+        "amount_transferred": 13782,
+        "timestamp": "2026-08-02T17:50:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC46805293",
+        "to_account": "ACC05242283",
+        "bank": "BOB",
+        "ifsc": "BOB0554360",
+        "amount_transferred": 12974,
+        "timestamp": "2026-08-02T19:11:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0044",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC83880306",
+        "to_account": "ACC13362670",
+        "bank": "Kotak",
+        "ifsc": "KOTA0412606",
+        "amount_transferred": 87531,
+        "timestamp": "2026-08-15T23:04:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC13362670",
+        "to_account": "ACC10371381",
+        "bank": "Kotak",
+        "ifsc": "KOTA0771915",
+        "amount_transferred": 76614,
+        "timestamp": "2026-08-15T23:02:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0045",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC80175393",
+        "to_account": "ACC26267290",
+        "bank": "HDFC",
+        "ifsc": "HDFC0882613",
+        "amount_transferred": 14204,
+        "timestamp": "2026-08-08T05:27:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC26267290",
+        "to_account": "ACC32608033",
+        "bank": "Axis",
+        "ifsc": "AXIS0384514",
+        "amount_transferred": 14972,
+        "timestamp": "2026-08-08T05:25:00"
+      },
+      {
+        "hop_number": 3,
+        "from_account": "ACC32608033",
+        "to_account": "ACC50299327",
+        "bank": "SBI",
+        "ifsc": "SBI0744651",
+        "amount_transferred": 12938,
+        "timestamp": "2026-08-08T05:47:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0046",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC92291606",
+        "to_account": "ACC71771957",
+        "bank": "Kotak",
+        "ifsc": "KOTA0711728",
+        "amount_transferred": 7726,
+        "timestamp": "2026-08-18T18:38:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC71771957",
+        "to_account": "ACC82075043",
+        "bank": "ICICI",
+        "ifsc": "ICIC0453215",
+        "amount_transferred": 7667,
+        "timestamp": "2026-08-18T19:43:00"
+      },
+      {
+        "hop_number": 3,
+        "from_account": "ACC82075043",
+        "to_account": "ACC50824319",
+        "bank": "Kotak",
+        "ifsc": "KOTA0859743",
+        "amount_transferred": 7300,
+        "timestamp": "2026-08-18T20:55:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0047",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC99042835",
+        "to_account": "ACC32772399",
+        "bank": "SBI",
+        "ifsc": "SBI0775719",
+        "amount_transferred": 4268,
+        "timestamp": "2026-08-19T20:26:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC32772399",
+        "to_account": "ACC66037373",
+        "bank": "ICICI",
+        "ifsc": "ICIC0294991",
+        "amount_transferred": 4460,
+        "timestamp": "2026-08-19T19:37:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0048",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC55635061",
+        "to_account": "ACC23877320",
+        "bank": "ICICI",
+        "ifsc": "ICIC0275114",
+        "amount_transferred": 54659,
+        "timestamp": "2026-08-15T08:15:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC23877320",
+        "to_account": "ACC92321168",
+        "bank": "ICICI",
+        "ifsc": "ICIC0608302",
+        "amount_transferred": 54202,
+        "timestamp": "2026-08-15T09:27:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0049",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC24810891",
+        "to_account": "ACC46905909",
+        "bank": "BOB",
+        "ifsc": "BOB0168088",
+        "amount_transferred": 78154,
+        "timestamp": "2026-08-09T14:10:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC46905909",
+        "to_account": "ACC15830612",
+        "bank": "SBI",
+        "ifsc": "SBI0128062",
+        "amount_transferred": 80484,
+        "timestamp": "2026-08-09T15:05:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0050",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC29503747",
+        "to_account": "ACC95313287",
+        "bank": "ICICI",
+        "ifsc": "ICIC0095799",
+        "amount_transferred": 12975,
+        "timestamp": "2026-08-03T17:04:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC95313287",
+        "to_account": "ACC57779593",
+        "bank": "ICICI",
+        "ifsc": "ICIC0991237",
+        "amount_transferred": 13557,
+        "timestamp": "2026-08-03T19:14:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0051",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC51006043",
+        "to_account": "ACC21798305",
+        "bank": "PNB",
+        "ifsc": "PNB0978893",
+        "amount_transferred": 14869,
+        "timestamp": "2026-08-13T03:36:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC21798305",
+        "to_account": "ACC13119796",
+        "bank": "PNB",
+        "ifsc": "PNB0196972",
+        "amount_transferred": 14075,
+        "timestamp": "2026-08-13T03:40:00"
+      },
+      {
+        "hop_number": 3,
+        "from_account": "ACC13119796",
+        "to_account": "ACC36179939",
+        "bank": "Axis",
+        "ifsc": "AXIS0906992",
+        "amount_transferred": 14022,
+        "timestamp": "2026-08-13T06:15:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0052",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC86730263",
+        "to_account": "ACC10379843",
+        "bank": "BOB",
+        "ifsc": "BOB0514866",
+        "amount_transferred": 13116,
+        "timestamp": "2026-08-08T19:39:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC10379843",
+        "to_account": "ACC82390137",
+        "bank": "BOB",
+        "ifsc": "BOB0580564",
+        "amount_transferred": 12820,
+        "timestamp": "2026-08-08T20:22:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0053",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC67722205",
+        "to_account": "ACC40008640",
+        "bank": "BOB",
+        "ifsc": "BOB0269417",
+        "amount_transferred": 55239,
+        "timestamp": "2026-08-06T09:49:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC40008640",
+        "to_account": "ACC63331042",
+        "bank": "SBI",
+        "ifsc": "SBI0851606",
+        "amount_transferred": 58274,
+        "timestamp": "2026-08-06T11:10:00"
+      },
+      {
+        "hop_number": 3,
+        "from_account": "ACC63331042",
+        "to_account": "ACC55884584",
+        "bank": "BOB",
+        "ifsc": "BOB0840975",
+        "amount_transferred": 59104,
+        "timestamp": "2026-08-06T13:15:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0054",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC98149496",
+        "to_account": "ACC53780558",
+        "bank": "BOB",
+        "ifsc": "BOB0590757",
+        "amount_transferred": 130032,
+        "timestamp": "2026-08-05T12:17:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC53780558",
+        "to_account": "ACC55911778",
+        "bank": "HDFC",
+        "ifsc": "HDFC0882654",
+        "amount_transferred": 131374,
+        "timestamp": "2026-08-05T13:50:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0055",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC42337388",
+        "to_account": "ACC08194824",
+        "bank": "Kotak",
+        "ifsc": "KOTA0612877",
+        "amount_transferred": 58805,
+        "timestamp": "2026-08-13T09:42:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC08194824",
+        "to_account": "ACC70747551",
+        "bank": "PNB",
+        "ifsc": "PNB0820003",
+        "amount_transferred": 52792,
+        "timestamp": "2026-08-13T11:19:00"
+      },
+      {
+        "hop_number": 3,
+        "from_account": "ACC70747551",
+        "to_account": "ACC43962449",
+        "bank": "BOB",
+        "ifsc": "BOB0453828",
+        "amount_transferred": 51814,
+        "timestamp": "2026-08-13T10:04:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0056",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC26589641",
+        "to_account": "ACC60283964",
+        "bank": "HDFC",
+        "ifsc": "HDFC0332468",
+        "amount_transferred": 22739,
+        "timestamp": "2026-08-07T03:12:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC60283964",
+        "to_account": "ACC56836621",
+        "bank": "SBI",
+        "ifsc": "SBI0096827",
+        "amount_transferred": 24596,
+        "timestamp": "2026-08-07T04:25:00"
+      },
+      {
+        "hop_number": 3,
+        "from_account": "ACC56836621",
+        "to_account": "ACC17888666",
+        "bank": "HDFC",
+        "ifsc": "HDFC0769243",
+        "amount_transferred": 21382,
+        "timestamp": "2026-08-07T06:58:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0057",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC88810128",
+        "to_account": "ACC99862284",
+        "bank": "BOB",
+        "ifsc": "BOB0835410",
+        "amount_transferred": 141774,
+        "timestamp": "2026-08-09T06:58:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC99862284",
+        "to_account": "ACC08583208",
+        "bank": "PNB",
+        "ifsc": "PNB0124594",
+        "amount_transferred": 134619,
+        "timestamp": "2026-08-09T06:40:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0058",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC27174706",
+        "to_account": "ACC44405798",
+        "bank": "Kotak",
+        "ifsc": "KOTA0750072",
+        "amount_transferred": 58893,
+        "timestamp": "2026-08-12T05:00:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC44405798",
+        "to_account": "ACC15300945",
+        "bank": "HDFC",
+        "ifsc": "HDFC0546194",
+        "amount_transferred": 57751,
+        "timestamp": "2026-08-12T05:13:00"
+      },
+      {
+        "hop_number": 3,
+        "from_account": "ACC15300945",
+        "to_account": "ACC42717513",
+        "bank": "BOB",
+        "ifsc": "BOB0608250",
+        "amount_transferred": 59952,
+        "timestamp": "2026-08-12T05:20:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0059",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC72604156",
+        "to_account": "ACC18171111",
+        "bank": "Kotak",
+        "ifsc": "KOTA0125272",
+        "amount_transferred": 77032,
+        "timestamp": "2026-08-04T22:41:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC18171111",
+        "to_account": "ACC64200154",
+        "bank": "HDFC",
+        "ifsc": "HDFC0970796",
+        "amount_transferred": 82666,
+        "timestamp": "2026-08-04T23:02:00"
+      },
+      {
+        "hop_number": 3,
+        "from_account": "ACC64200154",
+        "to_account": "ACC40102837",
+        "bank": "ICICI",
+        "ifsc": "ICIC0070861",
+        "amount_transferred": 81327,
+        "timestamp": "2026-08-05T00:46:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0060",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC23876716",
+        "to_account": "ACC98194546",
+        "bank": "SBI",
+        "ifsc": "SBI0768878",
+        "amount_transferred": 7380,
+        "timestamp": "2026-08-12T19:23:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC98194546",
+        "to_account": "ACC84060857",
+        "bank": "SBI",
+        "ifsc": "SBI0729856",
+        "amount_transferred": 7542,
+        "timestamp": "2026-08-12T20:21:00"
+      },
+      {
+        "hop_number": 3,
+        "from_account": "ACC84060857",
+        "to_account": "ACC74661886",
+        "bank": "Kotak",
+        "ifsc": "KOTA0095441",
+        "amount_transferred": 7702,
+        "timestamp": "2026-08-12T20:44:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0061",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC80450439",
+        "to_account": "ACC61450066",
+        "bank": "Kotak",
+        "ifsc": "KOTA0352693",
+        "amount_transferred": 21454,
+        "timestamp": "2026-08-09T10:10:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC61450066",
+        "to_account": "ACC45646717",
+        "bank": "BOB",
+        "ifsc": "BOB0238925",
+        "amount_transferred": 23883,
+        "timestamp": "2026-08-09T10:02:00"
+      },
+      {
+        "hop_number": 3,
+        "from_account": "ACC45646717",
+        "to_account": "ACC48742118",
+        "bank": "HDFC",
+        "ifsc": "HDFC0281370",
+        "amount_transferred": 23625,
+        "timestamp": "2026-08-09T13:47:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0062",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC09845915",
+        "to_account": "ACC81663846",
+        "bank": "Kotak",
+        "ifsc": "KOTA0623328",
+        "amount_transferred": 13061,
+        "timestamp": "2026-08-16T07:04:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC81663846",
+        "to_account": "ACC85853752",
+        "bank": "Kotak",
+        "ifsc": "KOTA0276917",
+        "amount_transferred": 14944,
+        "timestamp": "2026-08-16T06:41:00"
+      },
+      {
+        "hop_number": 3,
+        "from_account": "ACC85853752",
+        "to_account": "ACC56775597",
+        "bank": "PNB",
+        "ifsc": "PNB0685840",
+        "amount_transferred": 12990,
+        "timestamp": "2026-08-16T08:31:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0063",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC86270818",
+        "to_account": "ACC52635766",
+        "bank": "Kotak",
+        "ifsc": "KOTA0034769",
+        "amount_transferred": 12871,
+        "timestamp": "2026-08-02T14:59:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC52635766",
+        "to_account": "ACC67889767",
+        "bank": "HDFC",
+        "ifsc": "HDFC0567921",
+        "amount_transferred": 14286,
+        "timestamp": "2026-08-02T15:23:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0064",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC15237113",
+        "to_account": "ACC76837507",
+        "bank": "SBI",
+        "ifsc": "SBI0595715",
+        "amount_transferred": 4553,
+        "timestamp": "2026-08-17T12:18:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC76837507",
+        "to_account": "ACC86329645",
+        "bank": "HDFC",
+        "ifsc": "HDFC0761326",
+        "amount_transferred": 4939,
+        "timestamp": "2026-08-17T12:46:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0065",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC98384081",
+        "to_account": "ACC00975626",
+        "bank": "PNB",
+        "ifsc": "PNB0268288",
+        "amount_transferred": 40371,
+        "timestamp": "2026-08-13T12:29:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC00975626",
+        "to_account": "ACC80607001",
+        "bank": "Kotak",
+        "ifsc": "KOTA0208944",
+        "amount_transferred": 38248,
+        "timestamp": "2026-08-13T13:04:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0066",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC70917307",
+        "to_account": "ACC38012778",
+        "bank": "Axis",
+        "ifsc": "AXIS0262898",
+        "amount_transferred": 7578,
+        "timestamp": "2026-08-05T01:11:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC38012778",
+        "to_account": "ACC81053502",
+        "bank": "PNB",
+        "ifsc": "PNB0772981",
+        "amount_transferred": 7021,
+        "timestamp": "2026-08-05T03:56:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0067",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC45200743",
+        "to_account": "ACC62201436",
+        "bank": "HDFC",
+        "ifsc": "HDFC0615891",
+        "amount_transferred": 4485,
+        "timestamp": "2026-08-04T14:20:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC62201436",
+        "to_account": "ACC74817843",
+        "bank": "Kotak",
+        "ifsc": "KOTA0351688",
+        "amount_transferred": 4355,
+        "timestamp": "2026-08-04T16:18:00"
+      },
+      {
+        "hop_number": 3,
+        "from_account": "ACC74817843",
+        "to_account": "ACC28000505",
+        "bank": "HDFC",
+        "ifsc": "HDFC0459559",
+        "amount_transferred": 4604,
+        "timestamp": "2026-08-04T15:09:00"
+      },
+      {
+        "hop_number": 4,
+        "from_account": "ACC28000505",
+        "to_account": "ACC38581503",
+        "bank": "ICICI",
+        "ifsc": "ICIC0029967",
+        "amount_transferred": 4355,
+        "timestamp": "2026-08-04T15:42:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0068",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC22657398",
+        "to_account": "ACC93758825",
+        "bank": "SBI",
+        "ifsc": "SBI0163685",
+        "amount_transferred": 22661,
+        "timestamp": "2026-08-16T19:40:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC93758825",
+        "to_account": "ACC48378084",
+        "bank": "PNB",
+        "ifsc": "PNB0252116",
+        "amount_transferred": 24314,
+        "timestamp": "2026-08-16T20:20:00"
+      },
+      {
+        "hop_number": 3,
+        "from_account": "ACC48378084",
+        "to_account": "ACC87442180",
+        "bank": "Axis",
+        "ifsc": "AXIS0051605",
+        "amount_transferred": 21460,
+        "timestamp": "2026-08-16T21:11:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0069",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC92644241",
+        "to_account": "ACC81627345",
+        "bank": "PNB",
+        "ifsc": "PNB0231285",
+        "amount_transferred": 4565,
+        "timestamp": "2026-08-14T04:05:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC81627345",
+        "to_account": "ACC04607514",
+        "bank": "PNB",
+        "ifsc": "PNB0168876",
+        "amount_transferred": 4642,
+        "timestamp": "2026-08-14T05:30:00"
+      },
+      {
+        "hop_number": 3,
+        "from_account": "ACC04607514",
+        "to_account": "ACC05287357",
+        "bank": "BOB",
+        "ifsc": "BOB0760142",
+        "amount_transferred": 4894,
+        "timestamp": "2026-08-14T05:54:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0070",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC51066331",
+        "to_account": "ACC52556932",
+        "bank": "Kotak",
+        "ifsc": "KOTA0551549",
+        "amount_transferred": 4683,
+        "timestamp": "2026-08-14T17:12:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC52556932",
+        "to_account": "ACC18127915",
+        "bank": "Kotak",
+        "ifsc": "KOTA0786603",
+        "amount_transferred": 4727,
+        "timestamp": "2026-08-14T16:54:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0071",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC67946290",
+        "to_account": "ACC86426820",
+        "bank": "BOB",
+        "ifsc": "BOB0552102",
+        "amount_transferred": 6800,
+        "timestamp": "2026-08-20T21:35:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC86426820",
+        "to_account": "ACC97335570",
+        "bank": "SBI",
+        "ifsc": "SBI0028939",
+        "amount_transferred": 7132,
+        "timestamp": "2026-08-20T23:59:00"
+      },
+      {
+        "hop_number": 3,
+        "from_account": "ACC97335570",
+        "to_account": "ACC44015553",
+        "bank": "HDFC",
+        "ifsc": "HDFC0152572",
+        "amount_transferred": 7331,
+        "timestamp": "2026-08-20T23:59:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0072",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC84237278",
+        "to_account": "ACC95082068",
+        "bank": "Axis",
+        "ifsc": "AXIS0094382",
+        "amount_transferred": 148810,
+        "timestamp": "2026-08-08T19:23:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC95082068",
+        "to_account": "ACC72222883",
+        "bank": "Axis",
+        "ifsc": "AXIS0710940",
+        "amount_transferred": 146785,
+        "timestamp": "2026-08-08T19:19:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0073",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC22507455",
+        "to_account": "ACC87415306",
+        "bank": "Axis",
+        "ifsc": "AXIS0313812",
+        "amount_transferred": 37397,
+        "timestamp": "2026-08-20T19:59:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC87415306",
+        "to_account": "ACC34273821",
+        "bank": "ICICI",
+        "ifsc": "ICIC0152022",
+        "amount_transferred": 38423,
+        "timestamp": "2026-08-20T20:27:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0074",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC98577355",
+        "to_account": "ACC01228072",
+        "bank": "Axis",
+        "ifsc": "AXIS0358343",
+        "amount_transferred": 4760,
+        "timestamp": "2026-08-06T01:18:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC01228072",
+        "to_account": "ACC56592357",
+        "bank": "HDFC",
+        "ifsc": "HDFC0406498",
+        "amount_transferred": 4730,
+        "timestamp": "2026-08-06T01:37:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0075",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC36763879",
+        "to_account": "ACC59410769",
+        "bank": "Kotak",
+        "ifsc": "KOTA0701108",
+        "amount_transferred": 7458,
+        "timestamp": "2026-08-21T02:38:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC59410769",
+        "to_account": "ACC37021683",
+        "bank": "BOB",
+        "ifsc": "BOB0226180",
+        "amount_transferred": 7596,
+        "timestamp": "2026-08-21T04:07:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0076",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC55478465",
+        "to_account": "ACC42034105",
+        "bank": "ICICI",
+        "ifsc": "ICIC0712564",
+        "amount_transferred": 144498,
+        "timestamp": "2026-08-18T17:23:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC42034105",
+        "to_account": "ACC77575184",
+        "bank": "SBI",
+        "ifsc": "SBI0276820",
+        "amount_transferred": 141570,
+        "timestamp": "2026-08-18T19:07:00"
+      },
+      {
+        "hop_number": 3,
+        "from_account": "ACC77575184",
+        "to_account": "ACC76626521",
+        "bank": "BOB",
+        "ifsc": "BOB0011447",
+        "amount_transferred": 138570,
+        "timestamp": "2026-08-18T19:08:00"
+      },
+      {
+        "hop_number": 4,
+        "from_account": "ACC76626521",
+        "to_account": "ACC19092140",
+        "bank": "SBI",
+        "ifsc": "SBI0002474",
+        "amount_transferred": 135856,
+        "timestamp": "2026-08-18T17:31:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0077",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC18881727",
+        "to_account": "ACC29170623",
+        "bank": "Axis",
+        "ifsc": "AXIS0991775",
+        "amount_transferred": 78149,
+        "timestamp": "2026-08-05T10:28:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC29170623",
+        "to_account": "ACC23069240",
+        "bank": "Kotak",
+        "ifsc": "KOTA0753295",
+        "amount_transferred": 85825,
+        "timestamp": "2026-08-05T12:09:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0078",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC99606771",
+        "to_account": "ACC35638703",
+        "bank": "HDFC",
+        "ifsc": "HDFC0720755",
+        "amount_transferred": 138527,
+        "timestamp": "2026-08-03T16:32:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC35638703",
+        "to_account": "ACC53485815",
+        "bank": "HDFC",
+        "ifsc": "HDFC0485475",
+        "amount_transferred": 144007,
+        "timestamp": "2026-08-03T15:34:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0079",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC71243060",
+        "to_account": "ACC10110634",
+        "bank": "HDFC",
+        "ifsc": "HDFC0650270",
+        "amount_transferred": 88934,
+        "timestamp": "2026-08-12T08:16:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC10110634",
+        "to_account": "ACC08059437",
+        "bank": "BOB",
+        "ifsc": "BOB0820039",
+        "amount_transferred": 89468,
+        "timestamp": "2026-08-12T07:48:00"
+      },
+      {
+        "hop_number": 3,
+        "from_account": "ACC08059437",
+        "to_account": "ACC75152617",
+        "bank": "SBI",
+        "ifsc": "SBI0416346",
+        "amount_transferred": 88418,
+        "timestamp": "2026-08-12T08:37:00"
+      }
+    ]
+  },
+  {
+    "complaint_id": "CMP0080",
+    "chain": [
+      {
+        "hop_number": 1,
+        "from_account": "ACC99598468",
+        "to_account": "ACC65279294",
+        "bank": "ICICI",
+        "ifsc": "ICIC0379559",
+        "amount_transferred": 13429,
+        "timestamp": "2026-08-17T19:30:00"
+      },
+      {
+        "hop_number": 2,
+        "from_account": "ACC65279294",
+        "to_account": "ACC23798955",
+        "bank": "HDFC",
+        "ifsc": "HDFC0504128",
+        "amount_transferred": 13312,
+        "timestamp": "2026-08-17T20:06:00"
+      },
+      {
+        "hop_number": 3,
+        "from_account": "ACC23798955",
+        "to_account": "ACC35520344",
+        "bank": "BOB",
+        "ifsc": "BOB0878060",
+        "amount_transferred": 14569,
+        "timestamp": "2026-08-17T21:36:00"
+      }
+    ]
+  }
+]
