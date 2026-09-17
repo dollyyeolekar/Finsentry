@@ -1,111 +1,107 @@
-# FinSentry – Cash-Out Risk Forecasting System
+# FinSentry
 
-FinSentry is a predictive analytics system designed to analyze cybercrime
-transaction networks and identify potential cash-out zones and time windows.
+### Predictive Cash-Out Risk Analysis for Cybercrime Transactions
 
-It combines graph-based network analysis, machine learning, risk scoring,
-and explainable analysis to support investigation of suspicious transaction patterns.
+FinSentry is a predictive analytics system that analyzes cybercrime-related
+transaction networks to identify potential cash-out zones and time windows.
 
-## Features
+It combines **graph analysis, machine learning, risk scoring, and explainable
+analysis** to detect suspicious transaction patterns.
 
-- Cybercrime transaction network analysis
+## Key Features
+
+- Transaction network analysis
 - Known criminal network detection
-- New-pattern detection using Machine Learning
-- Zone-level risk scoring
-- Cash-out zone prediction
+- New pattern detection using Machine Learning
+- Risk scoring
+- Cash-out zone and time-window prediction
 - Explainable risk analysis
 - Interactive dashboard
+
+## System Flow
+
+```text
+Transaction Data
+       ↓
+Data Processing
+       ↓
+Transaction Network Creation
+       ↓
+      ┌───────────────────────┐
+      │                       │
+      ↓                       ↓
+Known Network Detection   New Pattern Detection
+      │                       │
+      └───────────┬───────────┘
+                  ↓
+          Machine Learning
+             Risk Model
+                  ↓
+            Risk Scoring
+                  ↓
+        Cash-Out Risk Analysis
+                  ↓
+        Explainable Results
+                  ↓
+          Dashboard Display
+```
+
+## Technology Stack
+
+**Frontend:** React.js, Vite, JavaScript  
+**Backend:** Python, FastAPI  
+**ML:** Random Forest, Joblib  
+**Analysis:** Graph-based transaction analysis
 
 ## Project Structure
 
 ```text
 FinSentry/
 ├── backend/
-│   ├── main.py
-│   ├── crime_graph.py
-│   ├── risk_model.py
-│   ├── explainability.py
-│   └── requirements.txt
-│
 ├── data/
-│   └── dataset files
-│
 ├── frontend/
-│   ├── dist/
-│   ├── index.html
-│   ├── package.json
-│   └── vite.config.js
-│
 ├── DEMO_SCRIPT.md
 ├── README.md
 └── .gitignore
-Technologies
-Backend
-Python
-FastAPI
-Random Forest
-Graph-based analysis
-Joblib
-Frontend
-React
-Vite
-JavaScript
-How to Run
-Backend
+```
 
-Open a terminal:
+## How to Run
 
+### Backend
+
+```bash
 cd backend
+python -m venv venv
+venv\Scripts\activate
 pip install -r requirements.txt
 uvicorn main:app --reload --port 8000
+```
 
-Backend API:
+### Frontend
 
-http://127.0.0.1:8000
+Open a new terminal:
 
-API documentation:
-
-http://127.0.0.1:8000/docs
-Frontend
-
-The repository currently contains the built frontend in frontend/dist.
-
-To preview the built application:
-
+```bash
 cd frontend
 npm install
 npm run preview
+```
 
-Then open the localhost URL shown in the terminal.
+## Localhost
 
-### System Workflow
+**Frontend:** http://localhost:4173/
 
-Transaction Data
-       ↓
-Graph Analysis
-       ↓
-Known Network Detection
-       ↓
-New Pattern Detection
-       ↓
-Machine Learning Risk Model
-       ↓
-Risk Scoring
-       ↓
-Cash-Out Zone Prediction
-       ↓
-Explainable Result
-       ↓
-Dashboard
-Project Demo
+**Backend:** http://127.0.0.1:8000
 
-See DEMO_SCRIPT.md for the complete demonstration workflow.
+**API Documentation:** http://127.0.0.1:8000/docs
 
-### Disclaimer
+## Project Objective
 
-This project is an academic/hackathon prototype using synthetic data.
-It is intended for research and demonstration purposes and is not a
-production financial-crime detection system.
+To analyze suspicious transaction networks, detect known and emerging
+patterns, calculate risk, and predict potential cash-out locations and
+time windows through an explainable analytics dashboard.
 
+## Disclaimer
 
-
+This is an academic/prototype project developed for educational and
+demonstration purposes using sample/synthetic data.
