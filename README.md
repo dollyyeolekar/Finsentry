@@ -1,56 +1,111 @@
-# Cash-Out Risk Forecasting System
+# FinSentry – Cash-Out Risk Forecasting System
 
-Predicts WHERE and WHEN cybercrime cash-out is likely, with plain-English reasoning —
-built for a 48-hour hackathon demo.
+FinSentry is a predictive analytics system designed to analyze cybercrime
+transaction networks and identify potential cash-out zones and time windows.
 
-## Project structure
+It combines graph-based network analysis, machine learning, risk scoring,
+and explainable analysis to support investigation of suspicious transaction patterns.
 
-```
-data/          synthetic dataset + generator script
-backend/       crime graph, ML risk model, explainability, FastAPI app
-frontend/      React dashboard (dark console UI)
-DEMO_SCRIPT.md exact walkthrough with verified real numbers for presenting
-```
+## Features
 
-## How to run (two terminals)
+- Cybercrime transaction network analysis
+- Known criminal network detection
+- New-pattern detection using Machine Learning
+- Zone-level risk scoring
+- Cash-out zone prediction
+- Explainable risk analysis
+- Interactive dashboard
 
-**Terminal 1 — backend:**
-```
+## Project Structure
+
+```text
+FinSentry/
+├── backend/
+│   ├── main.py
+│   ├── crime_graph.py
+│   ├── risk_model.py
+│   ├── explainability.py
+│   └── requirements.txt
+│
+├── data/
+│   └── dataset files
+│
+├── frontend/
+│   ├── dist/
+│   ├── index.html
+│   ├── package.json
+│   └── vite.config.js
+│
+├── DEMO_SCRIPT.md
+├── README.md
+└── .gitignore
+Technologies
+Backend
+Python
+FastAPI
+Random Forest
+Graph-based analysis
+Joblib
+Frontend
+React
+Vite
+JavaScript
+How to Run
+Backend
+
+Open a terminal:
+
 cd backend
 pip install -r requirements.txt
 uvicorn main:app --reload --port 8000
-```
-Check it's alive: open http://127.0.0.1:8000/docs
 
-**Terminal 2 — frontend:**
-```
+Backend API:
+
+http://127.0.0.1:8000
+
+API documentation:
+
+http://127.0.0.1:8000/docs
+Frontend
+
+The repository currently contains the built frontend in frontend/dist.
+
+To preview the built application:
+
 cd frontend
 npm install
-npm run dev
-```
-Open http://localhost:5173
+npm run preview
 
-## Regenerating the dataset (optional)
+Then open the localhost URL shown in the terminal.
 
-If you want a fresh random dataset:
-```
-cd data
-python3 generate_dataset.py
-cd ../backend
-python3 risk_model.py   # retrains the model on the new data
-```
+### System Workflow
 
-## How it works (pipeline order)
+Transaction Data
+       ↓
+Graph Analysis
+       ↓
+Known Network Detection
+       ↓
+New Pattern Detection
+       ↓
+Machine Learning Risk Model
+       ↓
+Risk Scoring
+       ↓
+Cash-Out Zone Prediction
+       ↓
+Explainable Result
+       ↓
+Dashboard
+Project Demo
 
-1. `data/generate_dataset.py` — builds a fake city (25 zones), complaints, mule account
-   chains, and 6 hidden "networks" with repeat cash-out habits
-2. `backend/crime_graph.py` — builds a graph of the whole dataset, matches new complaints
-   against known networks by reused accounts
-3. `backend/risk_model.py` — Random Forest model scores every zone for complaints that
-   DON'T match a known network (85% top-3 hit rate on held-out data)
-4. `backend/explainability.py` — turns either result into plain-English reasoning
-5. `backend/main.py` — FastAPI app wiring it all together
-6. `frontend/` — dashboard: zone heatmap, intake form, explanation panel, chain diagram,
-   case log
+See DEMO_SCRIPT.md for the complete demonstration workflow.
 
-See `DEMO_SCRIPT.md` for the exact presentation walkthrough with real, verified numbers.
+### Disclaimer
+
+This project is an academic/hackathon prototype using synthetic data.
+It is intended for research and demonstration purposes and is not a
+production financial-crime detection system.
+
+
+
